@@ -1,16 +1,29 @@
-## Hi there 👋
+Hi 👋 I'm Yash Maniyar
 
-<!--
-**Yash3135-Hub/Yash3135-Hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MCA Student | Python Developer | Data Analytics Enthusiast
 
-Here are some ideas to get you started:
+About Me
+---------
+🎓 MCA Student
+💻 Interested in Python & Data Analytics
+📊 Building data-driven applications
+🌱 Currently learning advanced development & DevOps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills
+------
+Python | SQL | Java | HTML | CSS | JavaScript
+Pandas | NumPy | Matplotlib | Streamlit
+MySQL | Git | GitHub
+
+Projects
+--------
+📊 Visionary Analytics
+🏥 Hospital Management System
+📱 Mobile Sales Analytics Dashboard
+...
+
+Connect With Me
+---------------
+LinkedIn
+Email
+Portfolio
